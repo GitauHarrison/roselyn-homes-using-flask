@@ -18,3 +18,13 @@ What features make a virtual classroom more enjoyable?
 - Sample tasks to try
 - Solutions on demand
 - Data visualization
+
+The goal of this application is to automate the most mundane tasks at Tinker Education. These include:
+
+- Availability of class links
+- Lesson objectives
+- Students' attendance
+- Ease of communication with parents, and students
+- Ease of communication among facilitators
+- Semi-automatic lesson assessments
+- Creation of lesson/term/project reports
